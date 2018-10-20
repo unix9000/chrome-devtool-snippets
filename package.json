@@ -1,0 +1,58 @@
+{
+  "name": "ChromeDevTools @ meinestadt.de",
+  "version": "1.0.0",
+  "engines": {
+    "node": "8.12.0",
+    "npm": "6.4.1"
+  },
+  "author": {
+    "name": "Marcel Rittershaus",
+    "url": "https://git.meinestadt.de/marcel.rittershaus",
+    "email": "marcel.rittershaus@meinstadt.de"
+  },
+  "keywords": [
+    "meinestadt.de",
+    "Javascript",
+    "ES6/ES7",
+    "Chrome",
+    "Debug",
+    "Better Setup"
+  ],
+  "description": "Chrome DevTools snippets",
+  "repository": {
+    "type": "git",
+    "url": "https://git.meinestadt.de/javascript-tools/chrome-devtool-snippets"
+  },
+  "bugs": {
+    "url": "https://git.meinestadt.de/javascript-tools/chrome-devtool-snippets/issues"
+  },
+  "private": true,
+  "license": "UNLICENSED",
+  "readme": "readme.md",
+  "devDependencies": {
+    "@babel/core": "7.0.0-beta.42",
+    "@babel/preset-env": "7.0.0-beta.42",
+    "babel-cli": "6.26.0",
+    "babel-core": "6.26.0",
+    "babel-plugin-transform-class-properties": "6.24.1",
+    "babel-plugin-transform-es2015-destructuring": "6.23.0",
+    "babel-plugin-transform-object-assign": "6.22.0",
+    "babel-plugin-transform-object-rest-spread": "6.23.0",
+    "babel-preset-env": "1.6.1",
+    "babel-preset-es2015": "6.6.0",
+    "babel-preset-react": "6.24.1",
+    "babel-preset-stage-2": "6.24.1",
+    "babel-register": "6.26.0",
+    "es6-promise": "4.2.4",
+    "eslint": "4.15.0",
+    "eslint-html-reporter": "0.5.2",
+    "eslint-plugin-chai-friendly": "0.4.0",
+    "eslint-plugin-compat": "2.2.0",
+    "eslint-plugin-import": "2.8.0",
+    "eslint-plugin-jasmine": "2.9.1",
+    "eslint-plugin-json": "1.2.0",
+    "eslint-plugin-node": "6.0.0",
+    "eslint-plugin-promise": "3.6.0",
+    "eslint-plugin-standard": "3.0.1"
+  }
+}
